@@ -1,2 +1,2 @@
-# dart-basic
-this contain basic dart learning
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
